@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/Gearon/JavaCrawler4Pexels.svg?branch=master)](https://travis-ci.org/Gearon/JavaCrawler4Pexels)
 
 ## Introduction
-[Pexels][1] is a high quality photos website and most of photos on this site are free to use for even commercial usage. 
+[Pexels][1] is a high quality photos website and photos on this site are free to use for even commercial usage. 
 This application is a web crawler to dump photos from Pexels to local disk with specified topics and sharpness.
 
 
